@@ -1,6 +1,6 @@
 # Meu Portfólio 
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+Logo: ![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/2.png "Logo Ofical")
 
 ## 🚀 Começando
 
