@@ -9,7 +9,7 @@ Esse portfólio apresenta algumas informações sobre meu currículo e projetos 
 
 ## 🛠️ Construído com:
 
-* [Flutter](https://flutter.dev/) - Framework
+* [Flutter 2.8.1](https://flutter.dev/) - Framework
 
 * [VScode](https://code.visualstudio.com/) - Editor
 
