@@ -9,4 +9,4 @@
 * Obrigado publicamente 🤓.
 
 ---
-:writing_hand:  com ❤️ por [Vagner Paiva](https://gist.github.com/developervagner) 😊
+:writing_hand:  com ❤️ por [Vagner Paiva](https://github.com/developervagner) 😊
