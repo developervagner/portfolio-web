@@ -1,4 +1,4 @@
-#  :technologist: Meu Portfólio 
+# Meu Portfólio 
 
 ![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/2.png "Logo Ofical")
 
@@ -13,9 +13,10 @@ Esse portfólio apresenta algumas informações sobre meu currículo e projetos 
 
 * [VScode](https://code.visualstudio.com/) - Editor
 
-## 📄 Licença
+## :technologist: Confira:
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+* [Meu Portfólio WEB](https://developervagner.github.io/portfolio-web/#/) 
+
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢
