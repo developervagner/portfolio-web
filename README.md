@@ -1,6 +1,5 @@
 # Meu Portfólio 
 
-# Icone: 
 ![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/2.png "Logo Ofical")
 
 ## 🚀 Começando
