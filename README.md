@@ -1,6 +1,8 @@
 # Meu Portfólio 
 
-![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/2.png "Logo Ofical")
+* Mobile: <p>![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/mobile.png "Mobile")</p>
+
+* Desktop: ![alt text](https://github.com/developervagner/portfolio-web/blob/main/assets/Images/note.png "Desktop")
 
 ## 📦 Desenvolvimento
 
